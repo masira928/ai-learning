@@ -18,7 +18,7 @@ if __name__ == '__main__':
         messages=[
             {
                 "role": "system",
-                "content" : "My name is Shumaila Shafiq"
+                "content" : "My name is Masira Khan"
             },
             {
                 "role": "user",
