@@ -14,7 +14,7 @@ if __name__ == '__main__':
     model = init_chat_model("mistral-large-latest", model_provider="mistralai")
     messages = [
         SystemMessage("Translate the following into Hindi"),
-        HumanMessage("My name is Muhammed Shakir and I stay in baroda!"),
+        HumanMessage("My name is Masira Khan and I love to cry!"),
     ]
     # response = model.invoke(messages)
     # print(response.content)
